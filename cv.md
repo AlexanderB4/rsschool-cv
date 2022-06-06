@@ -3,10 +3,11 @@
  ## Frontend Developer 
 
 ## Contact Information: 
-*Location:* Kyiv, Ukraine
+**Location:** Kyiv, Ukraine
 
-*Email:* alexander.bespalikov@gmail.com
+**Email:** alexander.bespalikov@gmail.com
 
-*Telegram:* [Alexander Bespalikov](https://t.me/alexanderbespalikov)
+**Telegram:** [Alexander Bespalikov](https://t.me/alexanderbespalikov)
 
-*GitHub:* [AlexanderB4](https://github.com/AlexanderB4)
+**GitHub:** [AlexanderB4](https://github.com/AlexanderB4)
+## About Me
